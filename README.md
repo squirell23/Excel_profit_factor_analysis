@@ -59,15 +59,15 @@ Microsoft Excel
 
 ### Описание проекта
 
-![Описание проекта](screenshotes/overview.PNG)
+![Описание проекта](screenshots/overview.PNG)
 
 ### Итоговая регрессионная модель
 
-![Итоговая регрессионная модель](screenshotes/final_model.PNG)
+![Итоговая регрессионная модель](screenshots/final_model.PNG)
 
 ### Сценарный анализ
 
-![Сценарный анализ](screenshotes/scenario_analysis.PNG)
+![Сценарный анализ](screenshots/scenario_analysis.PNG)
 
 ---
 
